@@ -8,5 +8,5 @@ try:
 
     print('The sum of {0} and {1} is {2}'. format(n1,n2,sum))
 except:
-    print('Error, Invalid input')
+    print('ERROR, Invalid input')
 exit()
