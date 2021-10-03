@@ -15,7 +15,7 @@ __Basic uses__ to check working of GIT-Hub
 
 ### GIF2
 <gif src = 
-"https://img-9gag-fun.9cache.com/photo/aEprmjN_460svav1.mp4"
+"https://img-9gag-fun.9cache.com/photo/aEprmjN_460svav1.gif"
      
  ![](https://9gag.com/gag/a7E4RXz)
 # Note
