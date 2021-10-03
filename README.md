@@ -13,7 +13,7 @@ __Basic uses__ to check working of GIT-Hub
 #### GIF
 -![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
     
- ![](https://9gag.com/gag/a7E4RXz)
+ ![](https://giphy.com/gifs/horse-YaZgr3Nj9DDI4)
 # Note
 * image file working (<img src = )
   - GIF not working
