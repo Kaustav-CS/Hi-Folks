@@ -15,10 +15,10 @@ __Basic uses__ to check working of GIT-Hub
     
  
 # Note
-*
-     -
-     -
-     -
+* 
+     - https://github.com/Kaustav-CS/Hi-Folks
+     - https://github.com/Kaustav-CS/practice-C-code
+     - https://github.com/Kaustav-CS/Y_2021
      -
      -
      -
