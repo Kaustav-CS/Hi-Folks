@@ -1,5 +1,7 @@
 ####    Repository:    Hi-Folks
 __Basic uses__ to check working of GIT-Hub
+
+![code hide 01] code hide
 ""
 ### GIF
 <img src = 
