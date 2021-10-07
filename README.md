@@ -6,8 +6,7 @@ __Basic uses__ to check working of GIT-Hub
 ![](https://media.giphy.com/media/ByTh8UTOcOXL2/giphy.gif)
 
 ## Feeling Excited!
-
-![alt text] (https://media.giphy.com/media/Qjmp5vKEERPyw/giphy.gif)
+![](https://media.giphy.com/media/Qjmp5vKEERPyw/giphy.gif)
      
 ### Images
 
