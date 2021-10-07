@@ -15,7 +15,15 @@ __Basic uses__ to check working of GIT-Hub
 My Request
 ==========
 ![](https://media.giphy.com/media/4QFBnpGrnISWPpX48Y/giphy.gif)
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 "Save Electricity"
+----
 
 
 
