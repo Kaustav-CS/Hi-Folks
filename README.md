@@ -38,3 +38,5 @@ My Request
      -
      -
 
+### CMD command
+-  tracert 8.8.8.8 >W:\Modified\text1258.txt
