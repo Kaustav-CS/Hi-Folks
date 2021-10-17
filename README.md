@@ -39,4 +39,9 @@ My Request
      -
 
 ### CMD command
--  tracert 8.8.8.8 >W:\Modified\text1258.txt
+-  tracert 8.8.8.8 >D:\Modified\text1258.txt
+-  ipconfig/all > D:\Modified\new_01.txt
+-  systeminfo > D:\Modified\new_02.txt
+-  wmic MEMORYCHIP get BankLabel, DeviceLocator, MemoryType, TypeDetail, Capacity, Speed > D:\Modified\new_03.txt
+-  wmic bios get smbiosbiosversion > D:\Modified\new_04.txt
+-  
