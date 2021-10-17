@@ -44,4 +44,8 @@ My Request
 -  systeminfo > D:\Modified\new_02.txt
 -  wmic MEMORYCHIP get BankLabel, DeviceLocator, MemoryType, TypeDetail, Capacity, Speed > D:\Modified\new_03.txt
 -  wmic bios get smbiosbiosversion > D:\Modified\new_04.txt
--  
+-  echo "Hi! Today is Sunday">D:\Modified\text_print.txt
+-  wmic path softwareLicensingService get OA3xOriginalProductKey >D:\Modified\product_key.txt
+
+
+
