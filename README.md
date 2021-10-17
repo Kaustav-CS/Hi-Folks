@@ -46,6 +46,8 @@ My Request
 -  wmic bios get smbiosbiosversion > D:\Modified\new_04.txt
 -  echo "Hi! Today is Sunday">D:\Modified\text_print.txt
 -  wmic path softwareLicensingService get OA3xOriginalProductKey >D:\Modified\product_key.txt
+-  echo %date%> D:\Modified\new_05.txt
+-  echo  %date% - %time%> D:\Modified\new_06.txt
 
 
 
