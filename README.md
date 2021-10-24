@@ -42,7 +42,7 @@ End Program Hello
      -
      -
      -
-   ![Screenshot 2021-10-23 070357](https://user-images.githubusercontent.com/69429716/138607471-5c2d6461-d7ef-4b8a-b8a3-aa83f01e4d54.jpg)
+   
   -
      -
 
