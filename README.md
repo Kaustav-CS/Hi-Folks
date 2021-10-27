@@ -58,3 +58,8 @@ End Program Hello
 -  `echo  %date% - %time%`> D:\Modified\new_06.txt
 -  `C:\>systeminfo | findstr /C:"Install Date"`> D:\Modified\new_07.txt
 -  
+
+
+|:-:|:-|
+| A | a |
+| B | b |
