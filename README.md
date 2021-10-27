@@ -60,6 +60,8 @@ End Program Hello
 -  
 
 
+
+|C01 #|T01|
 |:-:|:-|
 | A | a |
 | B | b |
