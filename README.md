@@ -1,7 +1,7 @@
 ####    Repository:    Hi-Folks
 __Basic uses__ to check working of GIT-Hub
 
-![""]
+
 
 ![](https://media.giphy.com/media/ByTh8UTOcOXL2/giphy.gif)
 
