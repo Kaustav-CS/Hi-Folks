@@ -6,14 +6,14 @@ __Basic uses__ to check working of GIT-Hub
 ![](https://media.giphy.com/media/ByTh8UTOcOXL2/giphy.gif)
 
 |Eng Number #|Roman Number|
-|:-:|:-|
-| 1 | I |
-| 2 | II |
-| 3 | III |
-| 4 | IV |
-| 5 | V |
-| 9 | IX |
-| 10 | X |
+|:-:|:-|:-|
+| 1 | I | |
+| 2 | II | |
+| 3 | III | |
+| 4 | IV | |
+| 5 | V | |
+| 9 | IX | |
+| 10 | X | |
 
 ## Feeling Excited!
 ![](https://media.giphy.com/media/Qjmp5vKEERPyw/giphy.gif)
