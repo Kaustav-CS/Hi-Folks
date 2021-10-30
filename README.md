@@ -15,6 +15,20 @@ __Basic uses__ to check working of GIT-Hub
 | 5 | V |
 | 9 | IX |
 | 10 | X |
+| 40 | XL |
+| 50 | L |
+| 90 | XC |
+| 100 | C |
+| 400 | CD |
+| 500 | D |
+| 1000 | M |
+
+
+
+
+|Number |Square |Cube |
+|:-:|:-|:-|
+| 1 | 1 | 1|
 
 ## Feeling Excited!
 ![](https://media.giphy.com/media/Qjmp5vKEERPyw/giphy.gif)
