@@ -95,6 +95,7 @@ End Program Hello
 -  `echo %date%`> D:\Modified\new_05.txt
 -  `echo  %date% - %time%`> D:\Modified\new_06.txt
 -  `C:\>systeminfo | findstr /C:"Install Date"`> D:\Modified\new_07.txt
+-  `ping 8.8.8.8 -t` > D:\Modified\new_10.txt
 -  
 
 
