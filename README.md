@@ -28,7 +28,20 @@ __Basic uses__ to check working of GIT-Hub
 
 |Number |Square |Cube |
 |:-:|:-|:-|
-| 1 | 1 | 1|
+| 2 | 4 | 1|
+| 3 | 9 | 1|
+| 5 | 25 | 1|
+| 7 | 49 | 1|
+| 11 | 121 | 1|
+| 13 | 169 | 1|
+| 17 | 289 | 1|
+| 19 | 361 | 1|
+| 23 | 529 | 1|
+| 29 | 841 | 1|
+| 31 | 961 | 1|
+| 37 | 1369 | 1|
+| 41 | 1681 | 1|
+
 
 ## Feeling Excited!
 ![](https://media.giphy.com/media/Qjmp5vKEERPyw/giphy.gif)
