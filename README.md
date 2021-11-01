@@ -6,7 +6,7 @@ __Basic uses__ to check working of GIT-Hub
 ![](https://media.giphy.com/media/ByTh8UTOcOXL2/giphy.gif)
 
 
-|Eng Number |Roman Number |
+|Eng Number |*Roman Number* |
 |:-:|:-|
 | 1 | I |
 | 2 | II |
@@ -71,7 +71,7 @@ End Program Hello
 -![Alt Text](https://media.giphy.com/media/DJsXEMm8GS5PJ3Za00/giphy.gif)
     
  
-# Note
+# _Note_
 * Sucessful Repository order: ---    
      - https://github.com/Kaustav-CS/Hi-Folks
      - https://github.com/Kaustav-CS/practice-C-code
@@ -82,7 +82,7 @@ End Program Hello
      -
    
 
-###### CMD command
+###### *CMD command*
 
 -  `tracert 8.8.8.8` >D:\Modified\text1258.txt
 -  ` `
