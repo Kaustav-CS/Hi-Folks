@@ -58,8 +58,8 @@ __Basic uses__ to check working of GIT-Hub
 ─────────▄██▄────▀█▄█▀───▀█▄█▀───────────
 
 
-'
-
+`Code`
+`
 ¯\_(ツ)_/¯
 
 
@@ -67,7 +67,7 @@ __Basic uses__ to check working of GIT-Hub
 
 
 ¯\_(ツ)_/¯
-'
+`
 
 
 ### Images
@@ -105,7 +105,7 @@ End Program Hello
      -
      -
    
-
+`Code`
 ###### *CMD command*
 
 -  `tracert 8.8.8.8` >D:\Modified\text1258.txt
