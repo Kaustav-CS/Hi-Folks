@@ -2,9 +2,12 @@
 __Basic uses__ to check working of GIT-Hub
 
 
+🏇 
+🎠
 
 ![](https://media.giphy.com/media/ByTh8UTOcOXL2/giphy.gif)
 
+🇷🇴
 
 |Eng Number |*Roman Number* |
 |:-:|:-|
@@ -28,6 +31,7 @@ __Basic uses__ to check working of GIT-Hub
 
 |Number |Square |Cube |
 |:-:|:-|:-|
+|---|---|---|
 | 2 | 4 | 8|
 | 3 | 9 | 27|
 | 5 | 25 | 625|
@@ -70,6 +74,10 @@ __Basic uses__ to check working of GIT-Hub
 
 
 ### Images
+
+😪
+🥠
+
 
 <img src = "https://images2.minutemediacdn.com/image/upload/c_crop,h_1080,w_1920,x_0,y_73/f_auto,q_auto,w_1100/v1607957918/shape/mentalfloss/72659-pixabay.jpg">
 
