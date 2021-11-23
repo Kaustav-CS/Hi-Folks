@@ -31,7 +31,9 @@ __Basic uses__ to check working of GIT-Hub
 
 |Number |Square |Cube |
 |:-:|:-|:-|
+|X|X^2|X^3|
 |---|---|---|
+|1|1|1|
 | 2 | 4 | 8|
 | 3 | 9 | 27|
 | 5 | 25 | 625|
