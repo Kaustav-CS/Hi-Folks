@@ -9,7 +9,7 @@ __Basic uses__ to check working of GIT-Hub
 
 🇷🇴
 
-|Eng Number |*Roman Number* | _|\_/ |
+|Eng Number |*Roman Number* | '_|\_/' |
 |:-:|:-|:-|:-|
 | 1 | I |১৪২৮|
 | 2 | II |
