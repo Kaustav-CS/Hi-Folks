@@ -11,15 +11,15 @@ __Basic uses__ to check working of GIT-Hub
 
 |Eng Number |*Roman Number* | '_|\_/' |
 |:-:|:-|:-|:-|
-| 1 | I |১৪২৮|
-| 2 | II |
-| 3 | III |
-| 4 | IV |
-| 5 | V |
-| 9 | IX |
-| 10 | X |
-| 40 | XL |
-| 50 | L |
+| 1 | I |Eins|
+| 2 | II |zwei
+| 3 | III | drei
+| 4 | IV | vier
+| 5 | V | fünf
+| 9 | IX | neun
+| 10 | X | zehn
+| 40 | XL | vierzig
+| 50 | L | fünfzig
 | 90 | XC |
 | 100 | C |
 | 400 | CD |
