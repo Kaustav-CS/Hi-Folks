@@ -20,11 +20,11 @@ __Basic uses__ to check working of GIT-Hub
 | 10 | X | zehn
 | 40 | XL | vierzig
 | 50 | L | fünfzig
-| 90 | XC |
-| 100 | C |
-| 400 | CD |
-| 500 | D |
-| 1000 | M |
+| 90 | XC | neunzig
+| 100 | C | hundert
+| 400 | CD | vierhundert
+| 500 | D | fünfhundert
+| 1000 | M | Tausend
 
 
 
