@@ -11,20 +11,20 @@ __Basic uses__ to check working of GIT-Hub
 
 |Eng Number |*Roman Number* | '_|\_/' |
 |:-:|:-|:-|:-|
-| 1 | I |Eins|
-| 2 | II |zwei
-| 3 | III | drei
-| 4 | IV | vier
-| 5 | V | fünf
-| 9 | IX | neun
-| 10 | X | zehn
-| 40 | XL | vierzig
-| 50 | L | fünfzig
-| 90 | XC | neunzig
-| 100 | C | hundert
-| 400 | CD | vierhundert
-| 500 | D | fünfhundert
-| 1000 | M | Tausend
+| 1 | I |Eins| un
+| 2 | II |zwei | deux
+| 3 | III | drei | trois
+| 4 | IV | vier | quatre
+| 5 | V | fünf | cinq
+| 9 | IX | neun | neuf
+| 10 | X | zehn | dix
+| 40 | XL | vierzig | quarante
+| 50 | L | fünfzig | cinquante
+| 90 | XC | neunzig | quatre-vingt-dix
+| 100 | C | hundert | cents
+| 400 | CD | vierhundert | quatre cents
+| 500 | D | fünfhundert | cinq cents
+| 1000 | M | Tausend | mille
 
 
 
