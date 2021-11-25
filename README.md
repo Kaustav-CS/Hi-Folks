@@ -68,7 +68,7 @@ _..._
 
 
 
-New Entry:
+_New Entry:
 
 
 ⣤⣶⣶⣶⣦⣤⣄⡀
@@ -85,7 +85,7 @@ New Entry:
 ⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄
 ⠚⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛
 
-Just chill...
+*Just chill...
 
 
 
