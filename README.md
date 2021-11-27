@@ -52,10 +52,6 @@ _..._
 | 41 | 1681 | 68921|
 
 
-## Feeling Excited!
-![](https://media.giphy.com/media/Qjmp5vKEERPyw/giphy.gif)
-     
-
 █▀██▀█─▀██▀─▀█▀────█─────▀██▄─▀█▀─▀██▀▄█▀
 ──██────██▄▄▄█────▄██─────██▀▄─█───███▀
 ──██────██───█───▄█▄██────██─▀▄█───██▀█
@@ -67,6 +63,10 @@ _..._
 ─────────▄██▄────▀█▄█▀───▀█▄█▀───────────
 
 
+
+## Feeling Excited!
+![](https://media.giphy.com/media/Qjmp5vKEERPyw/giphy.gif)
+     
 
 New Entry:
 
